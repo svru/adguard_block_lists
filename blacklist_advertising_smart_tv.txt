@@ -1,0 +1,26 @@
+# Advertising Smart TV - AdGuard Blacklist
+# https://github.com/svru
+
+||dazn.com
+||disney-plus.net
+||hbbtv.ardmediathek.de
+||hbbtv.zdf.de
+||itsmy.tv
+||itv.ard.de
+||kicker.de
+||kika.de
+||ran.de
+||redbull.tv
+||redbutton.de
+||rtl-hbbtv.de
+||samsung-highlights.ardmediathek.de
+||samsungcloud.tv
+||samsungcloudsolution.com
+||samsungcloudsolution.net
+||samsungiotcloud.com
+||samsungosp.com
+||samsungotn.net
+||samsungqbe.com
+||servustv.com
+||smartclip.net
+||welt.de

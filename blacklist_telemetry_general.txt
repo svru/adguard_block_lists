@@ -1,0 +1,6 @@
+# Telemetry General - AdGuard Blacklist
+# https://github.com/svru
+
+||meetrics.net
+metrics.icloud.com
+weblist.teamspeak.com
