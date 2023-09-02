@@ -24,11 +24,11 @@
 ||bongacash.com
 ||bwin.com
 ||cardiwersg.com
+||cleverpush.com
 ||clickaine.com
 ||cookielaw.org
 ||dymatrix.cloud
-||facebook.com
-||facebook.net
+||goadserver.com
 ||godpvqnszo.com
 ||justservingfiles.net
 ||kameleoon.eu
@@ -37,9 +37,9 @@
 ||mzstatic.com
 ||nativendo.de
 ||nonstopviews.de
-||office.com
 ||omtrdc.net
 ||opdvriwmixu.com
+||opencmp.net
 ||playamedia.com
 ||privacy-mgmt.com
 ||prodperfect.com
@@ -51,7 +51,6 @@
 ||scene7.com
 ||schneevonmorgen.com
 ||singular.net
-||solads.media
 ||solads.media
 ||stackpathdns.com
 ||stripst.com
@@ -74,19 +73,34 @@
 ||yieldlove-ad-serving.net
 
 
+# amazon
+unagi-na.amazon.com
+
+
+# google
+adservice.google.de
+safebrowsing.googleapis.com
+
+# facebook
+facebook.com
+facebook.net
+
+
+# golem.de
 a2az-api.golem.de
 a2az-content.golem.de
 ads.golem.de
-adservice.google.de
+remp-beam.golem.de
+redirect.golem.de
+robert.golem.de
+
+
 badges-content.teamspeak.com
 getpocket.cdn.mozilla.net
 img-getpocket.cdn.mozilla.net
 motd.ubuntu.com
 redbull.com
-redirect.golem.de
 rtbsuperhub.com
-safebrowsing.googleapis.com
-unagi-na.amazon.com
 
 
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
