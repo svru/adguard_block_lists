@@ -24,10 +24,13 @@
 ||bongacash.com
 ||bwin.com
 ||cardiwersg.com
+||clcktrck.com
 ||cleverpush.com
 ||clickaine.com
+||conputs-prequal.icu
 ||cookielaw.org
 ||dymatrix.cloud
+||freshworks.com
 ||goadserver.com
 ||godpvqnszo.com
 ||justservingfiles.net
@@ -38,6 +41,7 @@
 ||nativendo.de
 ||nonstopviews.de
 ||omtrdc.net
+||onetrust.com
 ||opdvriwmixu.com
 ||opencmp.net
 ||playamedia.com
@@ -46,12 +50,14 @@
 ||radiantmediatechs.com
 ||realsrv.com
 ||regioncolonel.com
+||retargeted.co
 ||rtbsuperhub.com
 ||scdn.co
 ||scene7.com
 ||schneevonmorgen.com
 ||singular.net
 ||solads.media
+||stackpathcdn.com
 ||stackpathdns.com
 ||stripst.com
 ||stroeerdigitalgroup.de
@@ -70,29 +76,36 @@
 ||wbtrk.net
 ||wcfbc.net
 ||webtrekk.net
+||ybbserver.com
 ||yieldlove-ad-serving.net
 
 
-# amazon
-unagi-na.amazon.com
+# Adobe
+|commerce.adobedc.net^
 
 
-# google
-adservice.google.de
-safebrowsing.googleapis.com
+# Amazon
+|unagi-na.amazon.com^
 
-# facebook
-facebook.com
-facebook.net
+
+# Google
+||adservice.google.de
+||googleadservices.com
+||safebrowsing.googleapis.com
+
+
+# Facebook
+||facebook.com
+||facebook.net
 
 
 # golem.de
-a2az-api.golem.de
-a2az-content.golem.de
-ads.golem.de
-remp-beam.golem.de
-redirect.golem.de
-robert.golem.de
+|a2az-api.golem.de^
+|a2az-content.golem.de^
+|ads.golem.de^
+|remp-beam.golem.de^
+|redirect.golem.de^
+|robert.golem.de^
 
 
 badges-content.teamspeak.com
