@@ -1,6 +1,7 @@
 # Advertising Porn - AdGuard Blacklist
 # https://github.com/svru
 
+||2020mustang.com
 ||6today.de
 ||abbywinters.com
 ||abshow.ru
@@ -19,6 +20,10 @@
 ||asstr.org
 ||aventertainments.com
 ||avn.com
+||bang.com
+||bangassets.com
+||bangcreatives.com
+||bangkazza.com
 ||belamionline.com
 ||biggercity.com
 ||blacksonblondes.com
@@ -28,6 +33,7 @@
 ||bundesporno.xxx
 ||buttsmithy.com
 ||buypass.com
+||bymyth.com
 ||cam4.com
 ||cambaddies.com
 ||cams.com
@@ -65,22 +71,27 @@
 ||fleshlight.com
 ||fling.com
 ||flirt4free.com
+||fpbns.net
+||freecamsfan.com
 ||freeones.com
 ||friendshipmale.com
 ||fritchy.com
 ||ftvgirls.com
 ||furaffinity.net
+||fvcwqkkqmuv.com
 ||geile.ws
 ||geilemaedchen.com
 ||geiltube.com
 ||german-porno-deutsch.com
 ||girlfriendvideos.com
+||goaserv.com
 ||godpvqnszo.com
 ||gratispornosfilm.com
 ||guterporn.com
 ||gynosex.tv
 ||hd-pornos.net
 ||hdxxx.me
+||highwebmedia.com
 ||hot-denise.de
 ||hqseek.com
 ||hustler.com
@@ -106,6 +117,7 @@
 ||lushstories.com
 ||lzxdx24yib.com
 ||madchensex.com
+||magsrv.com
 ||manhunt.net
 ||manjam.com
 ||maturealbum.com
@@ -124,7 +136,9 @@
 ||nurxxx.mobi
 ||odloty.\pl
 ||oglaf.com
+||ojtarsdukk.com
 ||onlydudes.com
+||outbrain.com
 ||parkplatztreff.org
 ||payserve.com
 ||peachyforum.com
@@ -150,6 +164,7 @@
 ||redlight.net
 ||redlightguide.com
 ||regioncolonel.com
+||rncdn7.com
 ||scalpmarmotproclaim.com
 ||scoreland.com
 ||sdc.com
@@ -170,8 +185,13 @@
 ||thehun.net
 ||tolleporno.com
 ||tonybatman.com
+||trafficjunky.net
+||trustedbanana.com
+||tsyndicate.com
 ||tuberica.com
+||undom.net
 ||vagosex.xxx
+||vgwort.de
 ||videobox.com
 ||videosexarchive.com
 ||vielporno.com
@@ -194,6 +214,7 @@
 ||xhamsterpremium.com
 ||xnxx.com
 ||xxxrama.com
+||xxxviijmp.com
 ||xxxvogue.net
 ||youporn.com
 ||youporndeutsch.co
