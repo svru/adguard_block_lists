@@ -2,12 +2,15 @@
 # https://github.com/svru
 
 ||2cnt.net
+||717trk.com
+||adbidderspartners.com
 ||adgrx.com
 ||adj.st
 ||adjust.com
 ||adscale.de
 ||adtng.com
 ||afcdn.net
+||afterpay.com^
 ||api.amazon.com
 ||app-measurement.com
 ||appcenter.ms
@@ -22,32 +25,44 @@
 ||bing.com
 ||bngpt.com
 ||bongacash.com
+||bsclink.cn^
 ||bwin.com
 ||cardiwersg.com
+||cedexis.net^
 ||clcktrck.com
 ||cleverpush.com
 ||clickaine.com
 ||conputs-prequal.icu
 ||cookielaw.org
+||crossengage.io
 ||dymatrix.cloud
 ||freshworks.com
 ||goadserver.com
 ||godpvqnszo.com
+||ich-parke-billiger.de^
+||joingekko.com^
 ||justservingfiles.net
 ||kameleoon.eu
+||klarna.net^
+||kustomerapp.com^
 ||limurol.com
 ||linkbux.com
 ||mateti.net
 ||mzstatic.com
 ||nativendo.de
 ||nonstopviews.de
+||novitrk2.com
+||novitrk6.com
 ||omtrdc.net
 ||onetrust.com
 ||opdvriwmixu.com
 ||opencmp.net
+||pinimg.com^
 ||playamedia.com
+||prf.hn
 ||privacy-mgmt.com
 ||prodperfect.com
+||prodtraff2.com
 ||radiantmediatechs.com
 ||realsrv.com
 ||regioncolonel.com
@@ -56,8 +71,12 @@
 ||scdn.co
 ||scene7.com
 ||schneevonmorgen.com
+||shoppermeet.net^
 ||singular.net
 ||solads.media
+||sovendus.com
+||spacetraff.com
+||spotlightoralcare.com^
 ||stackpathcdn.com
 ||stackpathdns.com
 ||stripst.com
@@ -70,6 +89,10 @@
 ||technical-service.net
 ||test-app.link
 ||trbo.com
+||trk42.net
+||trkadszer0.com
+||trknovi.com
+||trknovi.com
 ||upscore.com
 ||usercentrics.eu
 ||userreport.com
@@ -79,19 +102,6 @@
 ||webtrekk.net
 ||ybbserver.com
 ||yieldlove-ad-serving.net
-||717trk.com
-||spacetraff.com
-||trknovi.com
-||prodtraff2.com
-||trk42.net
-||novitrk6.com
-||novitrk2.com
-||trknovi.com
-||trkadszer0.com
-||adbidderspartners.com
-||crossengage.io
-||prf.hn
-||sovendus.com
 
 
 # RegEx
